@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SN74151AN")(type "KiCad")(uri "/Users/rakshit9695/Downloads/SN74151AN")(options "")(descr ""))
+  (lib (name "IC 7447")(type "KiCad")(uri "/Users/rakshit9695/Downloads/IC 7447")(options "")(descr ""))
+)
